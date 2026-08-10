@@ -1,0 +1,12 @@
+Sample workbook: H:\Work\Code-base\monthly-billing-workbooks\sample\reserved-instance-report-sample-test.xlsx
+Checked Quantity display using Excel COM:
+Row 2: value=4.0 | text=4,0 | format=[=0]0,00;[<1]0,00;0,0#
+Row 3: value=1.0 | text=1,0 | format=[=0]0,00;[<1]0,00;0,0#
+Row 4: value=1.0 | text=1,0 | format=[=0]0,00;[<1]0,00;0,0#
+Row 5: value=0.0 | text=0,00 | format=[=0]0,00;[<1]0,00;0,0#
+Row 6: value=1.0 | text=1,0 | format=[=0]0,00;[<1]0,00;0,0#
+Row 7: value=3.64 | text=3,64 | format=[=0]0,00;[<1]0,00;0,0#
+Row 8: value=1.28 | text=1,28 | format=[=0]0,00;[<1]0,00;0,0#
+Row 9: value=0.99 | text=0,99 | format=[=0]0,00;[<1]0,00;0,0#
+Row 10: value=0.79 | text=0,79 | format=[=0]0,00;[<1]0,00;0,0#
+Row 11: value=0.35 | text=0,35 | format=[=0]0,00;[<1]0,00;0,0#
